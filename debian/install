@@ -1,0 +1,6 @@
+update_vision.sh usr/bin
+restore_visionbackup.sh usr/bin
+CoreServices-1.1.war tmp/visionupgrade
+data-1.1.zip tmp/visionupgrade
+replenishment-1.1.tar.gz tmp/visionupgrade
+vision-1.1.war tmp/visionupgrade

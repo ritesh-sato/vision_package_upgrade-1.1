@@ -1,0 +1,9 @@
+ecb168ae447f7422a177ecc4592ec240  tmp/visionupgrade/CoreServices-1.1.war
+376094f6b44331671afcc2be3510a036  tmp/visionupgrade/data-1.1.zip
+b418e2e67e193d61f6bb0a94f9153dab  tmp/visionupgrade/replenishment-1.1.tar.gz
+dbb5c710ec91d37842be8459a4b1177b  tmp/visionupgrade/vision-1.1.war
+da354c8996ef95936f537efc4127d109  usr/bin/restore_visionbackup.sh
+5a97d2dba56ba7c092ca6a81757db5e4  usr/bin/update_vision.sh
+909bfe05f27c583bf072a83e8395a1da  usr/share/doc/upgradevision11/README.Debian
+b26a416998af399089b0bf79e137daad  usr/share/doc/upgradevision11/changelog.Debian.gz
+6a805f937527159ade7e615d2140960a  usr/share/doc/upgradevision11/copyright
